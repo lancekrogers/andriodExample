@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">OMG andriod</string>
+    <string name="app_name">Lances App</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="textview">Lances App</string>
     <string name="action_settings">Settings</string>
+    <string name="button">Update The TextView</string>
 </resources>
